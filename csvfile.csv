@@ -1,5 +1,5 @@
-"First;Name",Last!Name,Title,ReportsToEmail,Birthdate,Description
-TTom,Jones,Senior Director,buyer@crudsolutions.com,1956-05-34,"Senior Director of ""the top"" Crud solutions business"
+"FirstName",LastName,Title,ReportsTo.Email,Birthdate,Description
+Tom,Jones,Senior Director,buyer@crudsolutions.com,1956-05-34,"Senior Director of ""the top"" Crud solutions business"
 Ian,Kean,Solution Engineer,engineer@crudsolutions.com,,"Expert in solving customer problem. "
 Nick,Joe,Specialist,specialist@crudsolutions.com,1966-06-13,"CRUD specialist for middlewares"
 Yusof,Din,Specialist,specialist@crudsolutions.com,1980-06-28,"Specialist for GUI CRUD design."
@@ -8,4 +8,4 @@ Masahiro,Kabe,Chief Engineer,engineer@crudsolutions.com,1966-08-13,"Incharge bac
 Yoshida,Ken,Operation Manager,manager@crudsolutions.com,1967-12-25,"Manager at CRUD solutions branch"
 Chin,Yong,Programmer,programmer@crudsolutions.com,,"programmer for create functions."
 Mutu,Samy,Senior Engineer,engineer@crudsolutions.com,1972-05-05,"Frontend enginner for GUI design"
-Lee,S;ew,Chief programmer,programmer@crudsolutions.com,1961-06-19,"Directing in coding design and work process."
+Lee,Sew,Chief programmer,programmer@crudsolutions.com,1961-06-19,"Directing in coding design and work process."
